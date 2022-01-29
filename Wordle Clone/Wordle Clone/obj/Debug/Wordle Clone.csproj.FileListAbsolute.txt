@@ -1,0 +1,20 @@
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\Wordle Clone.exe.config
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\Wordle Clone.exe
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\Wordle Clone.pdb
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Buffers.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Memory.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Numerics.Vectors.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Text.Json.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Text.Encodings.Web.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Buffers.xml
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Memory.xml
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Numerics.Vectors.xml
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.csproj.AssemblyReference.cache
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.csproj.SuggestedBindingRedirects.cache
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.csproj.CoreCompileInputs.cache
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.csproj.CopyComplete
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.exe
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.pdb
