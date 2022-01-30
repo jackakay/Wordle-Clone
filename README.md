@@ -4,4 +4,4 @@
  Pretty sloppy code but it works so that ok i guess. 
  will make the words be taken from a separate file in the future.
  
-![image](https://uploadi.ng/NA9Y8d8V)
+![image](https://cdn.upload.systems/uploads/NA9Y8d8V.png)
