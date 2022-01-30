@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a91504ea-3195-464c-94f3-fd713d1e5aa2": {
+      "ProjectGuid": "a91504ea-3195-464c-94f3-fd713d1e5aa2",
+      "DisplayName": "Wordle Clone",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
