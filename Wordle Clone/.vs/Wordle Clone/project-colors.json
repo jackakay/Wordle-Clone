@@ -5,7 +5,12 @@
       "ProjectGuid": "a91504ea-3195-464c-94f3-fd713d1e5aa2",
       "DisplayName": "Wordle Clone",
       "ColorIndex": 0
+    },
+    "39305d2e-2cca-4e22-b430-90c4cf070464": {
+      "ProjectGuid": "39305d2e-2cca-4e22-b430-90c4cf070464",
+      "DisplayName": "Wordle Clone GUI",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

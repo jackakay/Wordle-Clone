@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSKVWxReomdYEFR2kkLhuIw9zu0p/OcQV/mIeHVjAjTLdZ6J1jhxlbY/hNcHFIpDZVLMZHAF5udbr7UbomGwFQ==",
+  "success": true,
+  "projectFilePath": "E:\\CodingStuff\\CheatsProject\\Repos\\Wordle-Clone\\Wordle Clone\\Wordle Clone GUI\\Wordle Clone GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

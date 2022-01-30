@@ -24,7 +24,7 @@ namespace Wordle_Clone
             bool guessed = false;
             char[] wordArr = word.ToCharArray();
             char[] stringToReturn = {'_','_', '_', '_','_' };
-            while(guesses > 0 && !guessed)
+            while(guesses != 0 || !guessed)
             {
                 Console.WriteLine("Guess: ");
                 string guess = Console.ReadLine();
@@ -55,14 +55,14 @@ namespace Wordle_Clone
                     }
                     
                 }
-                colouredString(stringToReturn, guessArr);
+                colouredString(stringToReturn, guessArr);      
                 if (guess == word)
                 {
                     Console.WriteLine("You got it!");
                     Console.ReadKey();
                     guessed = true;
                 }
-                guesses++;
+                guesses--;
 
             }
         }

@@ -1,0 +1,18 @@
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.exe
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.deps.json
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.runtimeconfig.json
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.runtimeconfig.dev.json
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\ref\Wordle Clone GUI.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.pdb
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.csproj.AssemblyReference.cache
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle_Clone_GUI.Form1.resources
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.csproj.GenerateResource.cache
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.AssemblyInfoInputs.cache
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.AssemblyInfo.cs
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.csproj.CoreCompileInputs.cache
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\ref\Wordle Clone GUI.dll
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.pdb
+E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.genruntimeconfig.cache
