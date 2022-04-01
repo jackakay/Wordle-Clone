@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OSKVWxReomdYEFR2kkLhuIw9zu0p/OcQV/mIeHVjAjTLdZ6J1jhxlbY/hNcHFIpDZVLMZHAF5udbr7UbomGwFQ==",
+  "dgSpecHash": "zLnjNPMlpalTLivRnfchr2v/c599UjX88t7DqcXhgssaGhrvbNro4o9wMO0M1A0bR6LFVPGCLY6kgSzOpu1RAQ==",
   "success": true,
-  "projectFilePath": "E:\\CodingStuff\\CheatsProject\\Repos\\Wordle-Clone\\Wordle Clone\\Wordle Clone GUI\\Wordle Clone GUI.csproj",
+  "projectFilePath": "C:\\Users\\jackk\\Programming\\Python\\Online Quiz\\Wordle-Clone\\Wordle Clone\\Wordle Clone GUI\\Wordle Clone GUI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jackk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\jackk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\jackk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jackk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jackk\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

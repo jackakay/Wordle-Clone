@@ -116,16 +116,17 @@ namespace Wordle_Clone_GUI
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-           for (int i = 0; i < 4; i++){
-	  	 if(textBox1.Text.Length != i)
-	   	{
-	   		labelList[i+(guessesTaken * 5)].Text = textBox1.Text[i].ToString().ToUpper();
-	  	}else
-		{
-			labelList[i + (guessesTaken * 5)].Text = "";	
-		}
-	   }
-
+           for (int i = 0; i < 5; i++){
+	  	       if(textBox1.Text.Length != i)
+	   	        {
+	   		        labelList[i+(guessesTaken * 5)].Text = textBox1.Text[i].ToString().ToUpper();
+	  	        }
+                else
+		        {
+			        labelList[i + (guessesTaken * 5)].Text = "";
+                    break;
+		        }
+	        }
         }
 
         private void label2_Click(object sender, EventArgs e)

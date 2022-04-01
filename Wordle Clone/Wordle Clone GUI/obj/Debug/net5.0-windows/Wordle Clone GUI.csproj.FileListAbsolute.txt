@@ -16,3 +16,21 @@ E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\ob
 E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\ref\Wordle Clone GUI.dll
 E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.pdb
 E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.genruntimeconfig.cache
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.exe
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.deps.json
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.runtimeconfig.json
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.runtimeconfig.dev.json
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.dll
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\bin\Debug\net5.0-windows\Wordle Clone GUI.pdb
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.csproj.AssemblyReference.cache
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle_Clone_GUI.Form1.resources
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.csproj.GenerateResource.cache
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.AssemblyInfoInputs.cache
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.AssemblyInfo.cs
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.csproj.CoreCompileInputs.cache
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.dll
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\refint\Wordle Clone GUI.dll
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.pdb
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\Wordle Clone GUI.genruntimeconfig.cache
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone GUI\obj\Debug\net5.0-windows\ref\Wordle Clone GUI.dll
