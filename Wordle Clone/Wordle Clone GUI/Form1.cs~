@@ -78,6 +78,13 @@ namespace Wordle_Clone_GUI
             labelList.Add(label23);
             labelList.Add(label24);
             labelList.Add(label26);
+            
+           
+
+            
+
+
+
             #endregion
         }
 
@@ -109,6 +116,9 @@ namespace Wordle_Clone_GUI
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            
+
+
             Random random = new Random();
             wordToGuess = words[random.Next(words.Length)];
             MessageBox.Show(wordToGuess);
@@ -116,16 +126,53 @@ namespace Wordle_Clone_GUI
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-           for (int i = 0; i < 4; i++){
-	  	 if(textBox1.Text.Length != i)
-	   	{
-	   		labelList[i+(guessesTaken * 5)].Text = textBox1.Text[i].ToString().ToUpper();
-	  	}else
-		{
-			labelList[i + (guessesTaken * 5)].Text = "";	
-		}
-	   }
+            
+            #region more bad code
+            if (textBox1.Text.Length != 0)
+            {
+                labelList[0 + (guessesTaken * 5)].Text = textBox1.Text[0].ToString().ToUpper(); ;
+                if (textBox1.Text.Length != 1)
+                {
+                    labelList[1 + (guessesTaken * 5)].Text = textBox1.Text[1].ToString().ToUpper(); ;
+                    if (textBox1.Text.Length != 2)
+                    {
+                        labelList[2 + (guessesTaken * 5)].Text = textBox1.Text[2].ToString().ToUpper(); ;
+                        if (textBox1.Text.Length != 3)
+                        {
+                            labelList[3 + (guessesTaken * 5)].Text = textBox1.Text[3].ToString().ToUpper(); ;
+                            if (textBox1.Text.Length != 4)
+                            {
+                                labelList[4 + (guessesTaken * 5)].Text = textBox1.Text[4].ToString().ToUpper(); ;
 
+                            }
+                            else
+                            {
+                                labelList[4 + (guessesTaken * 5)].Text = "";
+                            }
+
+                        }
+                        else
+                        {
+                            labelList[3 + (guessesTaken * 5)].Text = "";
+                        }
+                    }
+                    else
+                    {
+                        labelList[2 + (guessesTaken * 5)].Text = "";
+                    }
+                }
+                else
+                {
+                    labelList[1 + (guessesTaken * 5)].Text = "";
+                }
+
+
+            }
+            else
+            {
+                labelList[0 + (guessesTaken * 5)].Text = "";
+            }
+            #endregion
         }
 
         private void label2_Click(object sender, EventArgs e)
