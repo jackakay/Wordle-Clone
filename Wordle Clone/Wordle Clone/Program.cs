@@ -14,7 +14,7 @@ namespace Wordle_Clone
             string[] words = {"bezel","banjo","equip","chuck", "field", "jokes", "joker", "adieu", "shoes", "water", "irate", "power"};
             Random random = new Random();
             string word = words[random.Next(words.Length)];
-            Console.WriteLine(word);
+            //Console.WriteLine(word);
             game(word);
             Console.ReadKey();
         }
