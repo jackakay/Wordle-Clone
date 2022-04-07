@@ -85,6 +85,10 @@
             this.panel26 = new System.Windows.Forms.Panel();
             this.label26 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.button3 = new System.Windows.Forms.Button();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -116,7 +120,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(313, 362);
+            this.textBox1.Location = new System.Drawing.Point(237, 360);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(244, 23);
             this.textBox1.TabIndex = 0;
@@ -126,7 +130,7 @@
             // 
             this.GuessLabel.AutoSize = true;
             this.GuessLabel.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.GuessLabel.Location = new System.Drawing.Point(236, 362);
+            this.GuessLabel.Location = new System.Drawing.Point(160, 360);
             this.GuessLabel.Name = "GuessLabel";
             this.GuessLabel.Size = new System.Drawing.Size(71, 25);
             this.GuessLabel.TabIndex = 1;
@@ -134,7 +138,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(397, 391);
+            this.button1.Location = new System.Drawing.Point(321, 389);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(93, 32);
             this.button1.TabIndex = 9;
@@ -146,7 +150,7 @@
             // 
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(313, 106);
+            this.panel1.Location = new System.Drawing.Point(237, 104);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(43, 40);
             this.panel1.TabIndex = 10;
@@ -164,7 +168,7 @@
             // 
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel2.Controls.Add(this.label2);
-            this.panel2.Location = new System.Drawing.Point(362, 106);
+            this.panel2.Location = new System.Drawing.Point(286, 104);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(43, 40);
             this.panel2.TabIndex = 12;
@@ -182,7 +186,7 @@
             // 
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel3.Controls.Add(this.label3);
-            this.panel3.Location = new System.Drawing.Point(411, 106);
+            this.panel3.Location = new System.Drawing.Point(335, 104);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(43, 40);
             this.panel3.TabIndex = 12;
@@ -200,7 +204,7 @@
             // 
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel4.Controls.Add(this.label4);
-            this.panel4.Location = new System.Drawing.Point(460, 106);
+            this.panel4.Location = new System.Drawing.Point(384, 104);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(43, 40);
             this.panel4.TabIndex = 12;
@@ -218,7 +222,7 @@
             // 
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel5.Controls.Add(this.label5);
-            this.panel5.Location = new System.Drawing.Point(509, 106);
+            this.panel5.Location = new System.Drawing.Point(433, 104);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(43, 40);
             this.panel5.TabIndex = 12;
@@ -236,7 +240,7 @@
             // 
             this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel6.Controls.Add(this.label6);
-            this.panel6.Location = new System.Drawing.Point(313, 152);
+            this.panel6.Location = new System.Drawing.Point(237, 150);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(43, 40);
             this.panel6.TabIndex = 13;
@@ -254,7 +258,7 @@
             // 
             this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel7.Controls.Add(this.label7);
-            this.panel7.Location = new System.Drawing.Point(362, 152);
+            this.panel7.Location = new System.Drawing.Point(286, 150);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(43, 40);
             this.panel7.TabIndex = 12;
@@ -272,7 +276,7 @@
             // 
             this.panel8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel8.Controls.Add(this.label8);
-            this.panel8.Location = new System.Drawing.Point(411, 152);
+            this.panel8.Location = new System.Drawing.Point(335, 150);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(43, 40);
             this.panel8.TabIndex = 12;
@@ -290,7 +294,7 @@
             // 
             this.panel9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel9.Controls.Add(this.label9);
-            this.panel9.Location = new System.Drawing.Point(460, 152);
+            this.panel9.Location = new System.Drawing.Point(384, 150);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(43, 40);
             this.panel9.TabIndex = 12;
@@ -308,7 +312,7 @@
             // 
             this.panel10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel10.Controls.Add(this.label10);
-            this.panel10.Location = new System.Drawing.Point(509, 152);
+            this.panel10.Location = new System.Drawing.Point(433, 150);
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(43, 40);
             this.panel10.TabIndex = 12;
@@ -326,7 +330,7 @@
             // 
             this.panel11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel11.Controls.Add(this.label11);
-            this.panel11.Location = new System.Drawing.Point(313, 198);
+            this.panel11.Location = new System.Drawing.Point(237, 196);
             this.panel11.Name = "panel11";
             this.panel11.Size = new System.Drawing.Size(43, 40);
             this.panel11.TabIndex = 12;
@@ -344,7 +348,7 @@
             // 
             this.panel12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel12.Controls.Add(this.label12);
-            this.panel12.Location = new System.Drawing.Point(362, 198);
+            this.panel12.Location = new System.Drawing.Point(286, 196);
             this.panel12.Name = "panel12";
             this.panel12.Size = new System.Drawing.Size(43, 40);
             this.panel12.TabIndex = 12;
@@ -362,7 +366,7 @@
             // 
             this.panel13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel13.Controls.Add(this.label13);
-            this.panel13.Location = new System.Drawing.Point(411, 198);
+            this.panel13.Location = new System.Drawing.Point(335, 196);
             this.panel13.Name = "panel13";
             this.panel13.Size = new System.Drawing.Size(43, 40);
             this.panel13.TabIndex = 12;
@@ -380,7 +384,7 @@
             // 
             this.panel14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel14.Controls.Add(this.label14);
-            this.panel14.Location = new System.Drawing.Point(460, 198);
+            this.panel14.Location = new System.Drawing.Point(384, 196);
             this.panel14.Name = "panel14";
             this.panel14.Size = new System.Drawing.Size(43, 40);
             this.panel14.TabIndex = 12;
@@ -398,7 +402,7 @@
             // 
             this.panel15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel15.Controls.Add(this.label15);
-            this.panel15.Location = new System.Drawing.Point(509, 198);
+            this.panel15.Location = new System.Drawing.Point(433, 196);
             this.panel15.Name = "panel15";
             this.panel15.Size = new System.Drawing.Size(43, 40);
             this.panel15.TabIndex = 14;
@@ -416,7 +420,7 @@
             // 
             this.panel16.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel16.Controls.Add(this.label16);
-            this.panel16.Location = new System.Drawing.Point(313, 244);
+            this.panel16.Location = new System.Drawing.Point(237, 242);
             this.panel16.Name = "panel16";
             this.panel16.Size = new System.Drawing.Size(43, 40);
             this.panel16.TabIndex = 12;
@@ -434,7 +438,7 @@
             // 
             this.panel17.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel17.Controls.Add(this.label17);
-            this.panel17.Location = new System.Drawing.Point(362, 244);
+            this.panel17.Location = new System.Drawing.Point(286, 242);
             this.panel17.Name = "panel17";
             this.panel17.Size = new System.Drawing.Size(43, 40);
             this.panel17.TabIndex = 12;
@@ -452,7 +456,7 @@
             // 
             this.panel18.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel18.Controls.Add(this.label18);
-            this.panel18.Location = new System.Drawing.Point(411, 244);
+            this.panel18.Location = new System.Drawing.Point(335, 242);
             this.panel18.Name = "panel18";
             this.panel18.Size = new System.Drawing.Size(43, 40);
             this.panel18.TabIndex = 12;
@@ -470,7 +474,7 @@
             // 
             this.panel19.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel19.Controls.Add(this.label19);
-            this.panel19.Location = new System.Drawing.Point(460, 244);
+            this.panel19.Location = new System.Drawing.Point(384, 242);
             this.panel19.Name = "panel19";
             this.panel19.Size = new System.Drawing.Size(43, 40);
             this.panel19.TabIndex = 12;
@@ -488,7 +492,7 @@
             // 
             this.panel20.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel20.Controls.Add(this.label20);
-            this.panel20.Location = new System.Drawing.Point(509, 244);
+            this.panel20.Location = new System.Drawing.Point(433, 242);
             this.panel20.Name = "panel20";
             this.panel20.Size = new System.Drawing.Size(43, 40);
             this.panel20.TabIndex = 12;
@@ -506,7 +510,7 @@
             // 
             this.panel21.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel21.Controls.Add(this.label21);
-            this.panel21.Location = new System.Drawing.Point(313, 290);
+            this.panel21.Location = new System.Drawing.Point(237, 288);
             this.panel21.Name = "panel21";
             this.panel21.Size = new System.Drawing.Size(43, 40);
             this.panel21.TabIndex = 12;
@@ -524,7 +528,7 @@
             // 
             this.panel22.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel22.Controls.Add(this.label22);
-            this.panel22.Location = new System.Drawing.Point(362, 290);
+            this.panel22.Location = new System.Drawing.Point(286, 288);
             this.panel22.Name = "panel22";
             this.panel22.Size = new System.Drawing.Size(43, 40);
             this.panel22.TabIndex = 12;
@@ -542,7 +546,7 @@
             // 
             this.panel23.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel23.Controls.Add(this.label23);
-            this.panel23.Location = new System.Drawing.Point(411, 290);
+            this.panel23.Location = new System.Drawing.Point(335, 288);
             this.panel23.Name = "panel23";
             this.panel23.Size = new System.Drawing.Size(43, 40);
             this.panel23.TabIndex = 12;
@@ -560,7 +564,7 @@
             // 
             this.panel24.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel24.Controls.Add(this.label24);
-            this.panel24.Location = new System.Drawing.Point(460, 290);
+            this.panel24.Location = new System.Drawing.Point(384, 288);
             this.panel24.Name = "panel24";
             this.panel24.Size = new System.Drawing.Size(43, 40);
             this.panel24.TabIndex = 12;
@@ -579,7 +583,7 @@
             this.panel25.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel25.Controls.Add(this.panel26);
             this.panel25.Controls.Add(this.label25);
-            this.panel25.Location = new System.Drawing.Point(509, 290);
+            this.panel25.Location = new System.Drawing.Point(433, 288);
             this.panel25.Name = "panel25";
             this.panel25.Size = new System.Drawing.Size(43, 40);
             this.panel25.TabIndex = 12;
@@ -612,11 +616,50 @@
             this.label25.TabIndex = 11;
             this.label25.Text = "A";
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(67, 235);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(93, 32);
+            this.button2.TabIndex = 15;
+            this.button2.Text = "Play again!";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(618, 118);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(134, 23);
+            this.textBox2.TabIndex = 16;
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(643, 147);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(93, 32);
+            this.button3.TabIndex = 17;
+            this.button3.Text = "Add Word";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(577, 186);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(211, 211);
+            this.richTextBox1.TabIndex = 18;
+            this.richTextBox1.Text = "";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.richTextBox1);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.panel25);
             this.Controls.Add(this.panel24);
             this.Controls.Add(this.panel23);
@@ -764,5 +807,9 @@
         private System.Windows.Forms.Panel panel26;
         private System.Windows.Forms.Label label26;
         private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }

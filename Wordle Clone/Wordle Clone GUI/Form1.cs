@@ -16,7 +16,7 @@ namespace Wordle_Clone_GUI
         private int guesses = 5;
         private int guessesTaken = 0;
         private bool guessed = false;
-        private string[] words = { "bezel", "banjo", "equip", "chuck", "field", "jokes", "joker", "adieu", "shoes", "water", "irate", "power" };
+        private List<string> words = new List<string>{ "bezel", "banjo", "equip", "chuck", "field", "jokes", "joker", "adieu", "shoes", "water", "irate", "power" };
         private string wordToGuess = String.Empty ;
         List<Panel> panelList = new List<Panel>() ;
         List<Label> labelList = new List<Label>() ;
@@ -110,8 +110,15 @@ namespace Wordle_Clone_GUI
         private void Form1_Load(object sender, EventArgs e)
         {
             Random random = new Random();
-            wordToGuess = words[random.Next(words.Length)];
+            wordToGuess = words[random.Next(words.Count)];
             MessageBox.Show(wordToGuess);
+            updateTextBox();
+           
+        }
+
+        private void updateTextBox()
+        {
+            richTextBox1.AppendText(String.Join(", ", words));
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -166,6 +173,20 @@ namespace Wordle_Clone_GUI
 
         private void label3_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Random random = new Random();
+            wordToGuess = words[random.Next(words.Count)];
+            MessageBox.Show(wordToGuess);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (textBox2.Text.Length > 5) MessageBox.Show("Word must be 5 letters!");
+            else { words.Add(textBox2.Text); updateTextBox(); }
 
         }
     }

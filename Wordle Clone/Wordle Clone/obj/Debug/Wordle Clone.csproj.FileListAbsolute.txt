@@ -18,3 +18,22 @@ E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\obj\De
 E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.csproj.CopyComplete
 E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.exe
 E:\CodingStuff\CheatsProject\Repos\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.pdb
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\Wordle Clone.exe.config
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\Wordle Clone.exe
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\Wordle Clone.pdb
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Buffers.dll
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Memory.dll
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Buffers.xml
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Memory.xml
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.csproj.AssemblyReference.cache
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.csproj.SuggestedBindingRedirects.cache
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.csproj.CoreCompileInputs.cache
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.csproj.CopyComplete
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.exe
+C:\Users\jackk\Programming\Python\Online Quiz\Wordle-Clone\Wordle Clone\Wordle Clone\obj\Debug\Wordle Clone.pdb
