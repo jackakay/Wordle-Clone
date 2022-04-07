@@ -118,6 +118,7 @@ namespace Wordle_Clone_GUI
 
         private void updateTextBox()
         {
+            richTextBox1.Text = "";
             richTextBox1.AppendText(String.Join(", ", words));
         }
 
@@ -181,6 +182,18 @@ namespace Wordle_Clone_GUI
             Random random = new Random();
             wordToGuess = words[random.Next(words.Count)];
             MessageBox.Show(wordToGuess);
+            wipeList(labelList, panelList);
+            guessesTaken = 0;
+            textBox1.Text = "";
+            
+        }
+        private void wipeList(List<Label> labelList, List<Panel> panelList)
+        {
+            for(int i = 0; i < labelList.Count; i++)
+            {
+                labelList[i].Text = "";
+                panelList[i].BackColor = Color.White;
+            }
         }
 
         private void button3_Click(object sender, EventArgs e)
